@@ -1,0 +1,4 @@
+io/swagger/petstore/testing/models/CreateUser.java
+ io.swagger.petstore.testing.models.CreateUser
+io/swagger/petstore/testing/models/CreateOrder.java
+ io.swagger.petstore.testing.models.CreateOrder
